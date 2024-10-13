@@ -1,0 +1,5 @@
+@media(max-width: px) {
+  body {
+    background-image: none;
+  }
+}
