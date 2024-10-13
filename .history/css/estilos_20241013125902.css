@@ -39,7 +39,8 @@ main {
 
 .cartao-pokedev {
   display: none; /* Esconder */
-  max-width: 350px; /* Largura fixa */
+  max-width: 350px;
+  max-height: 250; /* Largura fixa */
   border-radius: 5px; 
   box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
 }
